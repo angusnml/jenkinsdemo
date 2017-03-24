@@ -2,3 +2,6 @@
 Jenkins/bin/
 Jenkins/obj/
 
+Jenkins.Tests/bin/
+Jenkins.Tests/obj
+packages/
